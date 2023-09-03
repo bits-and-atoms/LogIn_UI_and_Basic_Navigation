@@ -1,4 +1,4 @@
-#LogIn and SignUp UI <br>
+# LogIn and SignUp UI <br>
 I implemented a basic UI for login<br>
 [Click here for ASSETS](https://github.com/bits-and-atoms/LogIn_UI_and_Basic_Navigation/tree/main/assets "Visit assets folder to see images and other stuff")<br>
 [Click here to lib](https://github.com/bits-and-atoms/LogIn_UI_and_Basic_Navigation/tree/main/lib "Visit lib folder to see codes for different pages")<br>
