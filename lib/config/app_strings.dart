@@ -1,5 +1,5 @@
 class AppStrings {
-  static const appName = '5minuteflutter';
+  static const appName = 'APP';
   static const helloWelcome = 'Hello, welcome back!';
   static const loginToContinue = 'Login to continue';
   static const username = 'Username';
